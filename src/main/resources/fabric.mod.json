@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "shinyiv39",
+	"id": "modid",
 	"version": "${version}",
 	"name": "Example mod",
 	"description": "This is an example description! Tell everyone what your mod is about!",
@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.shinyiv.ShinyIv39"
+			"com.example.ExampleMod"
 		],
 		"client": [
 			"com.example.ExampleModClient"

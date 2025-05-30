@@ -1,4 +1,4 @@
-package com.shinyiv;
+package com.example;
 
 import com.cobblemon.mod.common.entity.pokemon.PokemonEntity;
 import com.cobblemon.mod.common.api.pokemon.Pokemon;
@@ -6,7 +6,7 @@ import com.cobblemon.mod.common.api.pokemon.stats.Stats;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerEntityEvents;
 
-public class ShinyIv39 implements ModInitializer {
+public class ExampleMod implements ModInitializer {
     @Override public void onInitialize() {
         // 任何实体第一次加载到世界都会触发
         ServerEntityEvents.ENTITY_LOAD.register((entity, world) -> {
