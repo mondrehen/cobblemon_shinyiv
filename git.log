@@ -1,0 +1,91 @@
+2025-05-30 10:55:56.138 [info] [main] 日志级别: Info
+2025-05-30 10:55:56.138 [info] [main] 正在验证在以下位置找到的 git: "C:\Program Files\Git\cmd\git.exe"
+2025-05-30 10:55:56.138 [info] [main] 使用来自 "C:\Program Files\Git\cmd\git.exe" 的 git "2.42.0.windows.2"
+2025-05-30 10:55:56.138 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-30 10:55:56.138 [info] > git rev-parse --show-toplevel [111ms]
+2025-05-30 10:55:56.138 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-30 10:55:56.239 [info] > git rev-parse --show-toplevel [134ms]
+2025-05-30 10:55:56.326 [info] > git rev-parse --git-dir --git-common-dir [81ms]
+2025-05-30 10:55:56.344 [info] [Model][openRepository] Opened repository (path): l:\ModDev\shinyiv
+2025-05-30 10:55:56.344 [info] [Model][openRepository] Opened repository (real path): l:\ModDev\shinyiv
+2025-05-30 10:55:56.348 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-30 10:55:57.029 [info] > git rev-parse --show-toplevel [248ms]
+2025-05-30 10:55:57.029 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-30 10:55:57.029 [info] > git show --textconv :build.gradle [282ms]
+2025-05-30 10:55:57.034 [info] > git config --get commit.template [664ms]
+2025-05-30 10:55:57.042 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [666ms]
+2025-05-30 10:55:57.068 [info] > git ls-files --stage -- build.gradle [293ms]
+2025-05-30 10:55:57.181 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [115ms]
+2025-05-30 10:55:57.192 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [119ms]
+2025-05-30 10:55:57.350 [info] > git check-ignore -v -z --stdin [139ms]
+2025-05-30 10:55:57.353 [info] > git blame --root --incremental 659ae443923b38521e173b98ce5ee87f9f36b1a5 -- build.gradle [134ms]
+2025-05-30 10:55:58.105 [info] > git status -z -uall [1044ms]
+2025-05-30 10:55:58.212 [info] > git config --get commit.template [88ms]
+2025-05-30 10:55:58.214 [info] > git ls-files --stage -- build.gradle [96ms]
+2025-05-30 10:55:58.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [109ms]
+2025-05-30 10:55:58.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [98ms]
+2025-05-30 10:55:58.305 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [87ms]
+2025-05-30 10:55:58.306 [info] > git config --get --local branch.1.21.vscode-merge-base [79ms]
+2025-05-30 10:55:58.334 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [96ms]
+2025-05-30 10:55:58.400 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/1.21 refs/remotes/origin/1.21 [90ms]
+2025-05-30 10:55:58.416 [info] > git show --textconv :build.gradle [100ms]
+2025-05-30 10:55:58.549 [info] > git merge-base refs/heads/1.21 refs/remotes/origin/1.21 [143ms]
+2025-05-30 10:55:58.573 [info] > git fetch [2229ms]
+2025-05-30 10:55:58.583 [info] > git status -z -uall [349ms] (cancelled)
+2025-05-30 10:55:58.677 [info] > git diff --name-status -z --diff-filter=ADMR 11f9224a90c96f12d8be6ec47c1917bfeaed7652...refs/remotes/origin/1.21 [123ms]
+2025-05-30 10:55:58.715 [info] > git config --get commit.template [132ms]
+2025-05-30 10:55:58.736 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [148ms]
+2025-05-30 10:55:58.775 [info] > git merge-base refs/heads/1.21 refs/remotes/origin/1.21 [198ms]
+2025-05-30 10:55:58.868 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [122ms]
+2025-05-30 10:55:58.899 [info] > git diff --name-status -z --diff-filter=ADMR 11f9224a90c96f12d8be6ec47c1917bfeaed7652...refs/remotes/origin/1.21 [120ms]
+2025-05-30 10:55:59.141 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [726ms]
+2025-05-30 10:55:59.666 [info] > git status -z -uall [925ms]
+2025-05-30 10:55:59.727 [info] > git ls-files --stage -- build.gradle [55ms]
+2025-05-30 10:55:59.781 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [52ms]
+2025-05-30 10:55:59.860 [info] > git show --textconv :build.gradle [74ms]
+2025-05-30 10:56:03.072 [info] > git rev-parse --show-toplevel [86ms]
+2025-05-30 10:56:03.072 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-30 10:56:03.077 [info] > git log --oneline --cherry 1.21...1.21@{upstream} -- [100ms]
+2025-05-30 10:56:04.455 [info] > git ls-files --stage -- build.gradle [70ms]
+2025-05-30 10:56:04.531 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [71ms]
+2025-05-30 10:56:04.621 [info] > git show --textconv :build.gradle [83ms]
+2025-05-30 10:56:04.711 [info] > git pull --tags origin 1.21 [1629ms]
+2025-05-30 10:56:04.711 [info] From https://github.com/mondrehen/fabric-example-mod
+ * branch            1.21       -> FETCH_HEAD
+2025-05-30 10:56:05.881 [info] > git ls-files --stage -- build.gradle [71ms]
+2025-05-30 10:56:05.955 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [71ms]
+2025-05-30 10:56:06.033 [info] > git show --textconv :build.gradle [72ms]
+2025-05-30 10:56:35.020 [info] > git push origin 1.21:1.21 [30303ms]
+2025-05-30 10:56:35.020 [info] remote: error: Trace: c291af13977ec2387bbffbe4be947ab80cd1b0995247a9848049a4ab89a54a89        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File libs/Cobblemon-fabric-1.6.1+1.21.1.jar is 115.12 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/mondrehen/fabric-example-mod.git
+ ! [remote rejected] 1.21 -> 1.21 (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/mondrehen/fabric-example-mod.git'
+2025-05-30 10:56:35.104 [info] > git config --get commit.template [78ms]
+2025-05-30 10:56:35.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [76ms]
+2025-05-30 10:56:35.214 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [96ms]
+2025-05-30 10:56:35.941 [info] > git status -z -uall [828ms]
+2025-05-30 10:56:43.763 [info] > git config --get commit.template [57ms]
+2025-05-30 10:56:43.769 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [61ms]
+2025-05-30 10:56:43.836 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [59ms]
+2025-05-30 10:56:44.435 [info] > git status -z -uall [661ms]
+2025-05-30 10:56:49.507 [info] > git config --get commit.template [55ms]
+2025-05-30 10:56:49.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [56ms]
+2025-05-30 10:56:49.579 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [62ms]
+2025-05-30 10:56:50.174 [info] > git status -z -uall [659ms]
+2025-05-30 11:01:32.175 [info] > git ls-files --stage -- build.gradle [52ms]
+2025-05-30 11:01:32.234 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [56ms]
+2025-05-30 11:01:32.291 [info] > git show --textconv :build.gradle [53ms]
+2025-05-30 11:01:32.381 [info] > git fetch [1514ms]
+2025-05-30 11:01:32.440 [info] > git config --get commit.template [55ms]
+2025-05-30 11:01:32.445 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/1.21 refs/remotes/1.21 [58ms]
+2025-05-30 11:01:32.510 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [58ms]
+2025-05-30 11:01:33.123 [info] > git status -z -uall [675ms]
+2025-05-30 11:01:33.593 [info] > git ls-files --stage -- build.gradle [48ms]
+2025-05-30 11:01:33.646 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [51ms]
+2025-05-30 11:01:33.704 [info] > git show --textconv :build.gradle [54ms]
+2025-05-30 11:02:03.902 [info] > git show --textconv :build.gradle [55ms]
+2025-05-30 11:02:03.903 [info] > git ls-files --stage -- build.gradle [54ms]
+2025-05-30 11:02:03.960 [info] > git cat-file -s ac54ce501b47d81f6050470be4122c362a087b1a [54ms]
