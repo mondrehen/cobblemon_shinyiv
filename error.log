@@ -1,0 +1,282 @@
+PS L:\ModDev\shinyiv> ./gradlew --refresh-dependencies clean build
+>> 
+
+> Configure project :
+Fabric Loom: 1.10.5
+Refresh dependencies is in use, loom will be significantly slower.
+:remapping 51 mods from modImplementation (java-api)
+Cannot remap field_55576 because it does not exists in any of the targets [net/minecraft/class_2609] or their parents. 
+Cannot remap method_17029 because it does not exists in any of the targets [net/minecraft/class_2609] or their parents.
+Cannot remap method_65063 because it does not exists in any of the targets [net/minecraft/class_2791] or their parents.
+Cannot remap field_54119 because it does not exists in any of the targets [net/minecraft/class_1792$class_1793] or their parents.
+Cannot remap method_65098 because it does not exists in any of the targets [net/minecraft/class_3244] or their parents.
+Cannot remap field_56986 because it does not exists in any of the targets [net/minecraft/class_1088] or their parents.
+Cannot remap method_63535 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_46765 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap field_9047 because it does not exists in any of the targets [net/minecraft/class_1867] or their parents.
+Cannot remap field_9019 because it does not exists in any of the targets [net/minecraft/class_1856] or their parents.
+Cannot remap field_54638 because it does not exists in any of the targets [net/minecraft/class_1863] or their parents.
+Cannot remap method_3367 because it does not exists in any of the targets [net/minecraft/class_778] or their parents.
+Cannot remap method_3965 because it does not exists in any of the targets [net/minecraft/class_901] or their parents.
+Cannot remap method_3936 because it does not exists in any of the targets [net/minecraft/class_901] or their parents.
+Cannot remap field_5434 because it does not exists in any of the targets [net/minecraft/class_1097] or their parents.
+Cannot remap method_5905 because it does not exists in any of the targets [net/minecraft/class_1299$class_1300] or their parents.
+Cannot remap field_53081 because it does not exists in any of the targets [net/minecraft/class_761] or their parents.
+Cannot remap field_53687 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_62692 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_46765 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_46725 because it does not exists in any of the targets [net/minecraft/class_2370$2] or their parents.
+
+Cannot remap method_31651 because it does not exists in any of the targets [net/minecraft/class_2609]
+Cannot remap method_31651 because it does not exists in any of the targets [net/minecraft/class_2609]
+Cannot remap method_23067 because it does not exists in any of the targets [net/minecraft/class_4603]
+Cannot remap method_40378 because it does not exists in any of the targets [net/minecraft/class_6306]
+Cannot remap method_20820 because it does not exists in any of the targets [net/minecraft/class_1646]
+Cannot remap field_53694 because it does not exists in any of the targets [] or their parents.       
+Cannot remap field_53694 because it does not exists in any of the targets [] or their parents.       
+Cannot remap method_56515 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_45121 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_68295 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_51148 because it does not exists in any of the targets [net/minecraft/class_4309]
+Cannot remap method_61256 because it does not exists in any of the targets [net/minecraft/class_3178]
+Cannot remap method_3994 because it does not exists in any of the targets [net/minecraft/class_915]
+Cannot remap method_7727 because it does not exists in any of the targets [net/minecraft/class_1755]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_1867]      
+Cannot remap method_63628 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_64244 because it does not exists in any of the targets [net/minecraft/class_525] 
+Cannot remap method_64244 because it does not exists in any of the targets [net/minecraft/class_525]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_2591]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_5905 because it does not exists in any of the targets [net/minecraft/class_1299$class_1300]
+Cannot remap method_5905 because it does not exists in any of the targets [net/minecraft/class_1299$class_1300]
+Cannot remap method_61248 because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_63588 because it does not exists in any of the targets [net/minecraft/class_1255]
+Cannot remap method_65893 because it does not exists in any of the targets [net/minecraft/class_1299]
+Cannot remap method_61794 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_12395 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_61793 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_12410 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_61945 because it does not exists in any of the targets [net/minecraft/class_1041]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_61240 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_61240 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_17157 because it does not exists in any of the targets [net/minecraft/class_970]
+Cannot remap method_4169 because it does not exists in any of the targets [net/minecraft/class_970]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_61248 because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_64397 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_64397 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_64397 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_4177 because it does not exists in any of the targets [net/minecraft/class_972]
+Cannot remap method_56515 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_45121 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_51148 because it does not exists in any of the targets [net/minecraft/class_4309]
+Cannot remap method_63568 because it does not exists in any of the targets [net/minecraft/class_4309]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_45876 because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_68018 because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_68019 because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_10223 because it does not exists in any of the targets [net/minecraft/class_2370]
+Cannot remap method_63535 because it does not exists in any of the targets [net/minecraft/class_2370]
+Cannot remap method_46746 because it does not exists in any of the targets [net/minecraft/class_2370]
+Cannot remap method_62130 because it does not exists in any of the targets [net/minecraft/class_5602]
+Cannot remap method_62131 because it does not exists in any of the targets [net/minecraft/class_5602]
+Cannot remap method_45719 because it does not exists in any of the targets [net/minecraft/class_5602]
+Cannot remap method_62155 because it does not exists in any of the targets [net/minecraft/class_9173]
+Cannot remap method_22710 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62210 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62210 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_22710 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_22710 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62203 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62204 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62200 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_60440 because it does not exists in any of the targets [net/minecraft/class_3898]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_65750 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_65750 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap field_56377 because it does not exists in any of the targets [net/minecraft/class_7952] or their parents.
+Cannot remap method_61673 because it does not exists in any of the targets [net/minecraft/class_1856]
+Cannot remap method_61677 because it does not exists in any of the targets [net/minecraft/class_1856]
+Cannot remap method_61680 because it does not exists in any of the targets [net/minecraft/class_1856]
+Cannot remap method_63631 because it does not exists in any of the targets [net/minecraft/class_1308]
+Cannot remap method_64671 because it does not exists in any of the targets [net/minecraft/class_3955]
+Cannot remap method_64671 because it does not exists in any of the targets [net/minecraft/class_3955]
+Cannot remap method_4201 because it does not exists in any of the targets [net/minecraft/class_996]
+Cannot remap field_5427 because it does not exists in any of the targets [] or their parents.
+Cannot remap method_16020 because it does not exists in any of the targets [net/minecraft/class_631]
+Cannot remap method_16020 because it does not exists in any of the targets [net/minecraft/class_631]
+Cannot remap method_65085 because it does not exists in any of the targets [net/minecraft/class_3244]
+Cannot remap method_12084 because it does not exists in any of the targets [net/minecraft/class_3244]
+Cannot remap field_55271 because it does not exists in any of the targets [net/minecraft/class_776] or their parents.
+Cannot remap method_29466 because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_61248 because it does not exists in any of the targets [net/minecraft/class_5350]
+
+> Configure project :
+:remapping 51 mods from modImplementation (java-runtime)
+Cannot remap field_55576 because it does not exists in any of the targets [net/minecraft/class_2609] or their parents.
+Cannot remap method_17029 because it does not exists in any of the targets [net/minecraft/class_2609] or their parents.
+Cannot remap field_54119 because it does not exists in any of the targets [net/minecraft/class_1792$class_1793] or their parents.
+Cannot remap method_65098 because it does not exists in any of the targets [net/minecraft/class_3244] or their parents.
+Cannot remap method_65063 because it does not exists in any of the targets [net/minecraft/class_2791] or their parents.
+Cannot remap field_9047 because it does not exists in any of the targets [net/minecraft/class_1867] or their parents.
+Cannot remap field_9019 because it does not exists in any of the targets [net/minecraft/class_1856] or their parents.
+Cannot remap field_54638 because it does not exists in any of the targets [net/minecraft/class_1863] or their parents.
+Cannot remap field_56986 because it does not exists in any of the targets [net/minecraft/class_1088] or their parents.
+Cannot remap method_5905 because it does not exists in any of the targets [net/minecraft/class_1299$class_1300] or their parents.
+Cannot remap method_63535 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_46765 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_3367 because it does not exists in any of the targets [net/minecraft/class_778] or their parents.
+Cannot remap field_53081 because it does not exists in any of the targets [net/minecraft/class_761] or their parents.
+Cannot remap method_3965 because it does not exists in any of the targets [net/minecraft/class_901] or their parents.
+Cannot remap method_3936 because it does not exists in any of the targets [net/minecraft/class_901] or their parents.
+Cannot remap field_5434 because it does not exists in any of the targets [net/minecraft/class_1097] or their parents.
+Cannot remap field_53687 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_62692 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_46765 because it does not exists in any of the targets [net/minecraft/class_2370] or their parents.
+Cannot remap method_46725 because it does not exists in any of the targets [net/minecraft/class_2370$2] or their parents.
+
+Cannot remap method_31651 because it does not exists in any of the targets [net/minecraft/class_2609]
+Cannot remap method_23067 because it does not exists in any of the targets [net/minecraft/class_4603]
+Cannot remap method_40378 because it does not exists in any of the targets [net/minecraft/class_6306]
+Cannot remap method_31651 because it does not exists in any of the targets [net/minecraft/class_2609]
+Cannot remap method_20820 because it does not exists in any of the targets [net/minecraft/class_1646]
+Cannot remap field_53694 because it does not exists in any of the targets [] or their parents.
+Cannot remap field_53694 because it does not exists in any of the targets [] or their parents.
+Cannot remap method_56515 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_45121 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_68295 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_51148 because it does not exists in any of the targets [net/minecraft/class_4309]
+Cannot remap method_61256 because it does not exists in any of the targets [net/minecraft/class_3178]
+Cannot remap method_3994 because it does not exists in any of the targets [net/minecraft/class_915]
+Cannot remap method_7727 because it does not exists in any of the targets [net/minecraft/class_1755]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_1867]
+Cannot remap method_63628 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_64244 because it does not exists in any of the targets [net/minecraft/class_525]
+Cannot remap method_64244 because it does not exists in any of the targets [net/minecraft/class_525]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_2591]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_61248 because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_5905 because it does not exists in any of the targets [net/minecraft/class_1299$class_1300]
+Cannot remap method_5905 because it does not exists in any of the targets [net/minecraft/class_1299$class_1300]
+Cannot remap method_63588 because it does not exists in any of the targets [net/minecraft/class_1255]
+Cannot remap method_65893 because it does not exists in any of the targets [net/minecraft/class_1299]
+Cannot remap method_61794 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_12395 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_61793 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_12410 because it does not exists in any of the targets [net/minecraft/class_2852]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_61945 because it does not exists in any of the targets [net/minecraft/class_1041]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_58284 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_61240 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_61240 because it does not exists in any of the targets [net/minecraft/class_9383]
+Cannot remap method_17157 because it does not exists in any of the targets [net/minecraft/class_970]
+Cannot remap method_4169 because it does not exists in any of the targets [net/minecraft/class_970]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_61248 because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_64397 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_64397 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_64397 because it does not exists in any of the targets [net/minecraft/class_1309]
+Cannot remap method_4177 because it does not exists in any of the targets [net/minecraft/class_972]
+Cannot remap method_56515 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_45121 because it does not exists in any of the targets [net/minecraft/class_7655]
+Cannot remap method_51148 because it does not exists in any of the targets [net/minecraft/class_4309]
+Cannot remap method_63568 because it does not exists in any of the targets [net/minecraft/class_4309]
+Cannot remap <init> because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_45876 because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_68018 because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_68019 because it does not exists in any of the targets [net/minecraft/class_1088]
+Cannot remap method_10223 because it does not exists in any of the targets [net/minecraft/class_2370]
+Cannot remap method_63535 because it does not exists in any of the targets [net/minecraft/class_2370]
+Cannot remap method_46746 because it does not exists in any of the targets [net/minecraft/class_2370]
+Cannot remap method_62130 because it does not exists in any of the targets [net/minecraft/class_5602]
+Cannot remap method_62131 because it does not exists in any of the targets [net/minecraft/class_5602]
+Cannot remap method_45719 because it does not exists in any of the targets [net/minecraft/class_5602]
+Cannot remap method_62155 because it does not exists in any of the targets [net/minecraft/class_9173]
+Cannot remap method_22710 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62210 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62210 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_22710 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62214 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_22710 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62203 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62204 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_62200 because it does not exists in any of the targets [net/minecraft/class_761]
+Cannot remap method_60440 because it does not exists in any of the targets [net/minecraft/class_3898]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_25931 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_65750 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap method_65750 because it does not exists in any of the targets [net/minecraft/class_1092]
+Cannot remap field_56377 because it does not exists in any of the targets [net/minecraft/class_7952] or their parents.
+Cannot remap method_61673 because it does not exists in any of the targets [net/minecraft/class_1856]
+Cannot remap method_61677 because it does not exists in any of the targets [net/minecraft/class_1856]
+Cannot remap method_61680 because it does not exists in any of the targets [net/minecraft/class_1856]
+Cannot remap method_63631 because it does not exists in any of the targets [net/minecraft/class_1308]
+Cannot remap method_64671 because it does not exists in any of the targets [net/minecraft/class_3955]
+Cannot remap method_64671 because it does not exists in any of the targets [net/minecraft/class_3955]
+Cannot remap method_4201 because it does not exists in any of the targets [net/minecraft/class_996]
+Cannot remap field_5427 because it does not exists in any of the targets [] or their parents.
+Cannot remap method_16020 because it does not exists in any of the targets [net/minecraft/class_631]
+Cannot remap method_16020 because it does not exists in any of the targets [net/minecraft/class_631]
+Cannot remap method_65085 because it does not exists in any of the targets [net/minecraft/class_3244]
+Cannot remap method_12084 because it does not exists in any of the targets [net/minecraft/class_3244]
+Cannot remap field_55271 because it does not exists in any of the targets [net/minecraft/class_776] or their parents.
+Cannot remap method_29466 because it does not exists in any of the targets [net/minecraft/class_5350]
+Cannot remap method_61248 because it does not exists in any of the targets [net/minecraft/class_5350]
+
+> Task :compileJava FAILED
+L:\ModDev\shinyiv\src\main\java\com\ExampleMod.java:4: 閿欒: 鎵句笉鍒扮鍙?
+                                                                            import com.cobblemon.mod.common.api.pokemon.Pokemon;
+                                           ^
+  绗﹀彿:   绫?Pokemon
+  浣嶇疆: 绋嬪簭鍖?com.cobblemon.mod.common.api.pokemon
+1 涓敊璇?
+
+[Incubating] Problems report is available at: file:///L:/ModDev/shinyiv/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exceptioption.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler output below.
+  L:\ModDev\shinyiv\src\main\java\com\ExampleMod.java:4: 閿欒: 鎵句笉鍒扮鍙?
+                                                                                import com.cobblemon.mod.common.api.pokemon.Pokemon;
+                                             ^
+    绗﹀彿:   绫?Pokemon
+    浣嶇疆: 绋嬪簭鍖?com.cobblemon.mod.common.api.pokemon
+  1 涓敊璇?
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)r(s)
+> Run with --scan to get full insights.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.12.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 3m 13s
